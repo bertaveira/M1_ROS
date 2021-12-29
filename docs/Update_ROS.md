@@ -14,7 +14,7 @@ wget https://raw.githubusercontent.com/ros2/ros2/foxy-release/ros2.repos
 
 
 
-Then just build with the same command used in the [Install_ROS](Install_ROS) guide:
+Then just build with the same command used in the [Install_ROS](Install_ROS.md) guide:
 
 ```bash
 colcon build \
@@ -31,4 +31,4 @@ colcon build \
     -DCMAKE_PREFIX_PATH=$(brew --prefix):$(brew --prefix qt@5) 
 ```
 
-If any errors occur from trying to build check the `Patches` section of my guide on [how to install ROS on M1 Mac](Install_ROS).
+If any errors occur from trying to build check the `Patches` section of my guide on [how to install ROS on M1 Mac](Install_ROS.md).
