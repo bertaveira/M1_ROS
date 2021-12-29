@@ -10,7 +10,7 @@ Guides:
 
 - [Installing ROS Foxy/Galatic](docs/install_ROS)
   - [Update ROS](docs/Update_ROS)
-- Installing ROS packages from index.ros.org
+- [Installing ROS packages from index.ros.org](docs/Install_ROS_packages)
   - Installing PCL for ROS
 - Using docker
   - Using ROS nodes in docker containers - Using docker containers helps a lot to make the code easely deployable and manageable on the target machine. The problem is that docker on MacOS runs the linux kernal on a VM making it not possible to have the `network=host` setting. To use Rviz and other tools some adaptations are needed
