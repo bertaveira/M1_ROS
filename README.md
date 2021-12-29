@@ -9,7 +9,7 @@ I am using a M1 Pro machine so this documentations has been tested on that.
 Guides:
 
 - [Installing ROS Foxy/Galatic](docs/install_ROS)
-  - Update ROS
+  - [Update ROS](docs/Update_ROS)
 - Installing ROS packages from index.ros.org
   - Installing PCL for ROS
 - Using docker
@@ -24,3 +24,4 @@ If you want to develop ROS based code on your personal M1 Mac you have 3 option:
 - Install ROS on macos - See the guide [here](docs/install_ROS)
 - Docker dev env - See guide here
 - Virtual Machine
+
