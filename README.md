@@ -8,7 +8,7 @@ I am using a M1 Pro machine so this documentations has been tested on that.
 
 Guides:
 
-- [Installing ROS Foxy/Galatic](docs/install_ROS.md)
+- [Installing ROS Foxy/Galatic](docs/Install_ROS.md)
   - [Update ROS](docs/Update_ROS.md)
 - [Installing ROS packages from index.ros.org](docs/Install_ROS_packages.md)
   - Installing PCL for ROS
